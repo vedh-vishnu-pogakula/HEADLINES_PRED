@@ -20,7 +20,7 @@ TOKENIZER_PATH = os.path.join(BASE_DIR, "models", "tokenizer")
 
 # ── Hugging Face Hub repo that stores the model weights ────────────────────────
 # Set this to YOUR HF username/repo, e.g. "vedhvishnu/muril-hindi-headline"
-HF_MODEL_REPO  = "YOUR_HF_USERNAME/muril-hindi-headline"
+HF_MODEL_REPO  = "Vedhvishnu/muril-hindi-headline"
 
 # ── Config (must match training) ───────────────────────────────────────────────
 MAX_LENGTH = 256

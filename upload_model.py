@@ -13,7 +13,7 @@ import os
 from huggingface_hub import HfApi, login
 
 # ── CONFIG — edit these two lines ────────────────────────────────────────────
-HF_USERNAME  = "YOUR_HF_USERNAME"          # your Hugging Face username
+HF_USERNAME  = "Vedhvishnu"               # your Hugging Face username
 REPO_NAME    = "muril-hindi-headline"      # name for the new model repo
 # ──────────────────────────────────────────────────────────────────────────────
 
